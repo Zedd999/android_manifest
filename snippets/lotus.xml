@@ -32,5 +32,6 @@
 
   <!-- System Repos -->
   <project path="system/netd" name="android_system_netd" remote="lotus" />
+  <project path="system/sepolicy" name="android_system_sepolicy" remote="lotus" />
 
 </manifest>
