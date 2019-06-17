@@ -37,6 +37,7 @@
   <project path="manifest" name="platform_manifest" remote="lotus" />
   <project path="vendor/lotus" name="android_vendor_lotus" remote="lotus" />
   <project path="vendor/themes" name="android_vendor_themes" remote="lotus" />
+  <project path="vendor/pixelstyle" name="android_vendor_pixelstyle" remote="lotus" />
   <project path="vendor/qcom/opensource/cryptfs_hw" name="android_vendor_qcom_opensource_cryptfs_hw" remote="lotus" />
 
   <!-- Packages repos -->
