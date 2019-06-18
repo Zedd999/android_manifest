@@ -44,6 +44,7 @@
   <project path="packages/apps/Lotus" name="android_packages_apps_Lotus" remote="lotus" />
   <project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="lotus" />
   <project path="packages/apps/Updates" name="android_packages_apps_Updates" remote="lotus" />
+  <project path="packages/apps/OmniStyle" name="android_packages_apps_OmniStyle" remote="lotus" />
 
   <!-- System Repos -->
   <project path="hardware/interfaces" name="android_hardware_interfaces" remote="lotus" />
