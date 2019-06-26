@@ -5,7 +5,7 @@
 ```bash
 
 # Initialize local repository
-repo init -u https://github.com/LotusOS/platform_manifest -b pie
+repo init -u https://github.com/LotusOS/android_manifest -b pie
 
 # Sync
 repo sync -jx
