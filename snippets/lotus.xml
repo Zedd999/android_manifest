@@ -49,6 +49,8 @@
   <project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="lotus" />
   <project path="packages/apps/Updates" name="android_packages_apps_Updates" remote="lotus" />
   <project path="packages/apps/OmniStyle" name="android_packages_apps_OmniStyle" remote="lotus" />
+  <project path="packages/apps/SmartNav" name="android_packages_apps_SmartNav" remote="lotus" />
+  <project path="packages/apps/SmartNavSettings" name="android_packages_apps_SmartNavSettings" remote="lotus" />
 
   <!-- System Repos -->
   <project path="hardware/interfaces" name="android_hardware_interfaces" remote="lotus" />
