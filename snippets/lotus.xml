@@ -9,6 +9,10 @@
           fetch="https://github.com/LotusOS-Devices"
           revision="pie" />
 
+  <remote name="x"
+          fetch="https://github.com/Zedd999"
+          revision="pie" />
+  
   <remote name="pixel-gitlab"
           fetch="https://gitlab.com/PixelExperience"
           revision="pie" />
@@ -19,7 +23,7 @@
   <project path="frameworks/native" name="android_frameworks_native" remote="lotus" />
   <project path="frameworks/opt/slimrecent" name="android_frameworks_opt_slimrecent" remote="lotus" />
   <project path="frameworks/opt/net/wifi" name="android_frameworks_opt_net_wifi" remote="lotus" />
-  <project path="frameworks/lotus" name="android_frameworks_lotus" remote="lotus" />
+  <project path="frameworks/lotus" name="android_frameworks_lotus" remote="x" />
   <project path="device/custom/sepolicy" name="android_device_custom_sepolicy" remote="lotus" />
   <project path="device/qcom/sepolicy" name="android_device_qcom_sepolicy" remote="lotus" />
 
@@ -49,7 +53,7 @@
   <project path="vendor/qcom/opensource/cryptfs_hw" name="android_vendor_qcom_opensource_cryptfs_hw" remote="lotus" />
 
   <!-- Packages repos -->
-  <project path="packages/apps/Lotus" name="android_packages_apps_Lotus" remote="lotus" />
+  <project path="packages/apps/Lotus" name="android_packages_apps_Lotus" remote="x" />
   <project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="lotus" />
   <project path="packages/apps/Updates" name="android_packages_apps_Updates" remote="lotus" />
   <project path="packages/apps/OmniStyle" name="android_packages_apps_OmniStyle" remote="lotus" />
