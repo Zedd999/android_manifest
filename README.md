@@ -8,7 +8,7 @@ To get started with the building process, you'll need to get familiar with [Git 
 To initialize your local repository, use a command like this:
 
 ```bash
-    repo init -u git://github.com/LotusOS/android_manifest.git -b pie
+        repo init -u git://github.com/Zedd999/android_manifest.git -b pie
 ```
 
 Then to sync up:
